@@ -16,7 +16,7 @@ I'm a Full-Stack Developer who loves turning ideas into real, deployed products 
 - 🧠 Exploring **AI/ML integrations** — RAG pipelines, Gemini API, pgvector
 - 🌱 Currently learning **cloud infrastructure** and **data engineering**
 - 💡 I believe in shipping real products, not just tutorials
-- 💻 Visit my [live projects](https://invoice-automation-gnhg.onrender.com) for more details
+- 💻 Visit my [live projects](https://frontend-ten-steel-74.vercel.app) for more details
 
 ---
 
